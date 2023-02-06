@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
     <h1> this line is added from local repository</h1>
-    <h1> this git pull</h1>
+    <h1> this is git pull line</h1>
     </div>
   );
 }
